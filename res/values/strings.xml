@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formulas</string>
+    <string name="main_mathematics">Mathematics</string>
+    <string name="main_physics">Physics</string>
+    <string name="main_conversions">Conversions</string>
+    
+    <string name="p_constants">Constants</string>
+    <string name="p_mechanics">Mechanics</string>
+    <string name="p_elecmagn">Electricity</string>
+    <string name="p_relativity">Relativity</string>
+    <string name="p_oscillations">Oscillations</string>
+    <string name="p_waves">Waves</string>
+    <string name="p_optics">Optics</string>
+    <string name="p_thermodynamic">Thermodynamics</string>
+    <string name="p_quantum">Quantum Physics</string>
+    <string name="p_plasma">Plasma Physics</string>
+    <string name="p_solidstate">Solid State Physics</string>
+    <string name="p_nuclear">Nuclear Physics</string>
+    <string name="p_qft">Quantum Field Theory</string>
+    <string name="p_astrophys">Astrophysics</string>
+  	
+     <string name="c_universal">Universal Constants</string>
+     <string name="c_electromagn">Electromagnetism</string>
+     <string name="c_electromagnrad">Electromagnetic radiation</string>
+     <string name="phys_mech_static">Static Mechanics</string>
+     <string name="phys_mech_general">General</string>
+     <string name="phys_mech_hydrostatic">Hydrostatic</string>
+     <string name="menu_search">Search</string>
+        
+</resources>

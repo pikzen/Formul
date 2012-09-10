@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="p_nuclear_images">
+        <item>@drawable/p_nuclear_nucleusmass</item>
+        <item>@drawable/p_nuclear_halflife</item>
+    </array>
+
+</resources>

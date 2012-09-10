@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:fillViewport="true"
+    android:scrollbarFadeDuration="15">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/formulaLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#F7F7F7"
+    
+     >
+     <TextView 
+         android:id="@+id/currentFormula"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_horizontal"
+         android:textSize="16dp"
+         android:textStyle="bold"
+         android:paddingTop="5dp"
+         android:textColor="#000000">
+         
+     </TextView>
+     <ImageView
+         android:id="@+id/latexFormula"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_horizontal"
+         android:padding="10dp">
+     </ImageView>
+   <TextView android:id="@+id/formulaText"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="TextView"
+      android:gravity="center_vertical"
+      android:textColor="#000000"
+      android:paddingLeft="5dp"
+      android:paddingRight="5dp">
+   </TextView>
+   
+</LinearLayout>
+</ScrollView>

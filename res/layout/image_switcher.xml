@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/GridItem"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingBottom="14dp"
+     >
+   
+   <ImageSwitcher
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/imageSwitcher"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+       
+   </ImageSwitcher>
+   
+</LinearLayout>
